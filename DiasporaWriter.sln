@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiasporaWriter", "DiasporaWriter\DiasporaWriter.csproj", "{FDEC07B5-F92D-4116-818F-8DE03540AFC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDEC07B5-F92D-4116-818F-8DE03540AFC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDEC07B5-F92D-4116-818F-8DE03540AFC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDEC07B5-F92D-4116-818F-8DE03540AFC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDEC07B5-F92D-4116-818F-8DE03540AFC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFEE162C-E01C-46D9-9786-91F0E2E35C84}
+	EndGlobalSection
+EndGlobal

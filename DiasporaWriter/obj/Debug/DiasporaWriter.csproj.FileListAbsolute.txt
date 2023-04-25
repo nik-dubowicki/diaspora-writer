@@ -1,0 +1,11 @@
+C:\Users\q\source\repos\DiasporaWriter\DiasporaWriter\bin\Debug\DiasporaWriter.exe.config
+C:\Users\q\source\repos\DiasporaWriter\DiasporaWriter\bin\Debug\DiasporaWriter.exe
+C:\Users\q\source\repos\DiasporaWriter\DiasporaWriter\bin\Debug\DiasporaWriter.pdb
+C:\Users\q\source\repos\DiasporaWriter\DiasporaWriter\obj\Debug\DiasporaWriter.csproj.AssemblyReference.cache
+C:\Users\q\source\repos\DiasporaWriter\DiasporaWriter\obj\Debug\DiasporaWriter.Form1.resources
+C:\Users\q\source\repos\DiasporaWriter\DiasporaWriter\obj\Debug\DiasporaWriter.Properties.Resources.resources
+C:\Users\q\source\repos\DiasporaWriter\DiasporaWriter\obj\Debug\DiasporaWriter.csproj.GenerateResource.cache
+C:\Users\q\source\repos\DiasporaWriter\DiasporaWriter\obj\Debug\DiasporaWriter.csproj.CoreCompileInputs.cache
+C:\Users\q\source\repos\DiasporaWriter\DiasporaWriter\obj\Debug\DiasporaWriter.exe
+C:\Users\q\source\repos\DiasporaWriter\DiasporaWriter\obj\Debug\DiasporaWriter.pdb
+C:\Users\q\source\repos\DiasporaWriter\DiasporaWriter\obj\Debug\DiasporaWriter.information.resources
